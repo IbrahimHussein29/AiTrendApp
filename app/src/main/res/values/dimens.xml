@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="welcome_text_size">37sp</dimen>
+    <dimen name="margin_xl">32dp</dimen>
+    <dimen name="experience_text_size">20sp</dimen>
+    <dimen name="title_size">30sp</dimen>
+    <dimen name="profile_name_size">26sp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+
+
+    <dimen name="text_size_medium">20sp</dimen>
+    <dimen name="text_size_xl">30sp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="search_edit_height">55dp</dimen>
+    <dimen name="home_card_width">100dp</dimen>
+    <dimen name="home_card_height">120dp</dimen>
+    <dimen name="home_card_margin">10dp</dimen>
+    <dimen name="home_card_radius">10dp</dimen>
+    <dimen name="home_card_elevation">3dp</dimen>
+    <dimen name="card_img_size">60dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="tend_title_size">16sp</dimen>
+</resources>
